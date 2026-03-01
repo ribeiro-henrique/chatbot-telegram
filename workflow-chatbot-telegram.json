@@ -67,7 +67,7 @@
             },
             {
               "name": "appid",
-              "value": "c960954fba928ba8167047ccc03766ae"
+              "value": "OPENWEATHER_API_KEY"
             }
           ]
         },
